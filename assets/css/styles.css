@@ -11344,7 +11344,7 @@ p {
 }
 
 /* testmonial card */
-.testimonial-card {
+.community-card {
   display: -webkit-box;
   display: -ms-flexbox;
   display: -webkit-flex;
@@ -11356,13 +11356,13 @@ p {
   margin-bottom: 30px;
 }
 
-.testimonial-card-img-holder {
+.community-card-img-holder {
   min-width: 45px;
   max-width: 45px;
   z-index: 999;
 }
 
-.testimonial-card-img {
+.community-card-img {
   background: #fff;
   padding: 4px;
   width: 90px;
@@ -11370,7 +11370,7 @@ p {
   border-radius: 50%;
 }
 
-.testimonial-card-body {
+.community-card-body {
   text-align: left;
   border: 1px solid #dee2e6;
   background: #fff;
@@ -11378,7 +11378,7 @@ p {
   border-radius: 0;
 }
 
-.testimonial-card-title {
+.community-card-title {
   margin-top: 20px;
   font-size: calc(14px + (18 - 14) * ((100vw - 300px) / (1300 - 300)));
 }
